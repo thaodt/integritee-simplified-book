@@ -1,0 +1,5 @@
+[book]
+authors = ["Thao Dinh aka. AR"]
+language = "vi"
+multilingual = false
+src = "src"
