@@ -1,6 +1,8 @@
-# The Simplified Intergritee BOOK with NOTES
-
+# The Simplified Integritee BOOK with NOTES
 made by my blockchain passion :hearts:.
+
+[The Integritee Book](https://book.integritee.network) included my notes & under my understanding.
+
 
 ### Hướng dẫn đọc sách ở local
 - Install Rust từ [official guide](https://www.rust-lang.org/tools/install)
